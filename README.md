@@ -1,0 +1,1 @@
+# aws-dynamodb_local_java
