@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-java-sdk-pinpoint:1.11.161">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-pinpoint/1.11.161/2ae7b256533ba576e38ee7389d097e75d885203c/aws-java-sdk-pinpoint-1.11.161.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-pinpoint/1.11.161/a7e9d49c2f52d00113061397858419fe8e133cd1/aws-java-sdk-pinpoint-1.11.161-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-java-sdk-marketplaceentitlement:1.11.161">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-marketplaceentitlement/1.11.161/f16b553fc408fb8d173e31a42d7bd08232e257ab/aws-java-sdk-marketplaceentitlement-1.11.161.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-marketplaceentitlement/1.11.161/888c53db7c6e7b813aa8197eb1902510eddd247f/aws-java-sdk-marketplaceentitlement-1.11.161-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
